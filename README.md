@@ -2,16 +2,19 @@
 
 # 👋 Hi, I'm L.H.N.T. De Silva
 
-### 💻 Software Developer | Web Developer
+### 💻 Aspiring Software Engineer | Full-Stack Enthusiast
 
-<img src="https://komarev.com/ghpvc/?username=nikeshathejavi&style=flat-square&color=blueviolet" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=nikeshathejavi&style=flat-square&color=007ec6" alt="Profile Views" />
 
 <p align="center">
   <a href="https://github.com/nikeshathejavi">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
@@ -19,29 +22,27 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Summary
 
-* 🎓 Currently studying Software Development at **NVTI**
-* 💻 Passionate about Web & Software Development
-* 🌐 Exploring Front-End & Back-End Development
-* 🗄️ Focused on Database Management & Efficiency
-* 🚀 Building creative projects to sharpen my coding skills
-* 📚 Always eager to learn new technologies
+* 🎓 **Education:** Software Development student at **NVTI**
+* 💡 **Core Focus:** Building responsive web apps, backend logic, and scalable database architectures
+* 🚀 **Objective:** Transforming innovative ideas into clean, efficient, and user-centric software solutions
+* 🤝 **Collaboration:** Always open to team projects, code reviews, and tech discussions
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technical Stack & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" hspace="10">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" hspace="10">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" hspace="10">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" hspace="10">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" alt="PHP" hspace="10">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" hspace="10">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" hspace="10">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" hspace="10">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" hspace="10">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
@@ -50,27 +51,30 @@
 
 <table align="center">
   <tr>
-    <td width="33%" align="center">
-      <h3>📊 Attendance Management System</h3>
-      <p>A web-based system designed to track and manage attendance efficiently.</p>
-      <p><b>Tech:</b> PHP | MySQL | HTML | CSS</p>
+    <td width="33%" align="center" valign="top">
+      <h3>📊 Attendance System</h3>
+      <p>A structured web application designed to track and manage organizational attendance seamlessly.</p>
+      <p><b>Tech:</b> PHP | MySQL | JavaScript</p>
+      <p><a href="https://github.com/nikeshathejavi">🔗 View Repository</a></p>
     </td>
-    <td width="33%" align="center">
-      <h3>🍫 Chocolate Website</h3>
-      <p>A responsive product website featuring a modern interface and product cards.</p>
+    <td width="33%" align="center" valign="top">
+      <h3>🍫 Chocolate Store</h3>
+      <p>A responsive e-commerce product interface featuring modern card layouts and clean styling.</p>
       <p><b>Tech:</b> HTML5 | CSS3</p>
+      <p><a href="https://github.com/nikeshathejavi">🔗 View Repository</a></p>
     </td>
-    <td width="33%" align="center">
+    <td width="33%" align="center" valign="top">
       <h3>🍽️ Restaurant Dashboard</h3>
-      <p>A clean, responsive, and modern user interface design for a restaurant dashboard.</p>
+      <p>An intuitive and modern admin dashboard UI tailored for restaurant management.</p>
       <p><b>Tech:</b> HTML5 | CSS3</p>
+      <p><a href="https://github.com/nikeshathejavi">🔗 View Repository</a></p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nikeshathejavi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
@@ -83,26 +87,24 @@
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 2026 Strategic Goals
 
-* 🚀 Level up my programming and logic-building skills
-* 🌐 Build and deploy more full-stack web applications
-* 🗄️ Deepen my knowledge in database optimization
-* 💡 Master new development tools and frameworks
-* 📂 Contribute more to open-source and personal projects
-* 👨‍💻 Take a step closer to becoming a professional Software Engineer
+* 🚀 Master advanced data structures and algorithms in Java
+* 🌐 Deploy full-stack scalable web solutions to production
+* 🗄️ Optimize relational database schema design and queries
+* 📂 Contribute actively to community and collaborative codebases
+* 👨‍💻 Graduate from NVTI and transition into a professional Software Engineering role
 
 ---
 
-## 💡 Quote
+## 💡 Professional Philosophy
 
-> **"Code. Learn. Build. Improve. Repeat."**
+> **"Writing clean code is what a good programmer does; solving real problems is what a great engineer does."**
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile! Let's build something amazing together. ⭐
+### ⭐ Thank you for stopping by my GitHub profile! ⭐
 
 </div>
-
